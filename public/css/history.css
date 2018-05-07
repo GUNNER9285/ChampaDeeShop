@@ -1,0 +1,31 @@
+/* style of คำสั่งซื้อ */
+#orderhstyle{
+    display: inline-block;
+    font-size:20px;
+}
+#orderbstyle{
+    display: inline-block;
+    font-size:15px;
+}
+/* box history order*/
+.boxhis{
+    border-style:solid;
+    padding:16px
+}
+/*Style of state*/
+.state{
+    border-radius:20px;
+    width:100%;
+    padding-top: 15px;
+}
+#baclgroundhorder{
+    background-color:#CCE2CC;
+}
+
+ .fontthispage{
+     font-size:20px;
+     display:inline-block;
+ }
+.fontstyledetail{
+    font-size:20px;
+}

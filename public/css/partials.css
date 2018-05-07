@@ -1,0 +1,69 @@
+.imgHead {
+    float: left;
+    width: 17%;
+    height: 20%;
+    margin-top: 3px;
+}
+.textHead {
+    color: #FF6E00;
+    font-size: 32px;
+    font-family: 'Indie Flower', cursive;
+}
+
+a#ta {
+    color: #117167;
+    text-decoration: none;
+}
+
+.d1 {
+    float: left;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+
+.footer {
+    width: 100%;
+    background-color: #F0F0F0;
+}
+
+.scTextFooter {
+    color: #117167;
+    font-family: 'Kanit', sans-serif;
+}
+
+.headTextFooter {
+    font-size: 18px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.copyright {
+    height: 40px;
+    color: white;
+    bottom: 0;
+    background-color: #F8941D;
+    text-align: center;
+    font-size: 11px;
+    line-height: 4;
+}
+
+@media (min-width: 768px) {
+    .copyright {
+        font-size: 16px;
+        line-height: 4;
+        height: 60px;
+    }
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 999;
+    border: none;
+    outline: none;
+    color: yellowgreen;
+    cursor: pointer;
+}
